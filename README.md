@@ -106,13 +106,17 @@ ESP32 --> Blynk Cloud --> Mobile Dashboard
 ## 📂 Repository Structure
 
 ```
-📁 DC-Microgrid-ESP32
-│── 📄 README.md
-│── 📄 dc_microgrid_code.ino
-│── 📄 schematic.png
-│── 📁 /images
-│── 📄 blynk_dashboard.png
-```
+DC-Microgrid-Project/
+│
+├── README.md                         # Project overview, documentation
+├── code.ino                          # Main ESP32 firmware (microgrid logic)
+│
+├── B_8.mp4                           # Demo video of DC microgrid
+├── B_8.pdf                           # Presentation / explanation document
+│
+├── EEE_R21_UG_Project_Report_JYOTSHNA.docx   # Full project report (editable)
+└── EEE_R21_UG_Project_Report_JYOTSHNA.pdf    # Final report (PDF version)
+
 
 ---
 
